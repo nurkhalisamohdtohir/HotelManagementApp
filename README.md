@@ -4,7 +4,7 @@ The Hotel Room Management System simplifies hotel reservations for administrator
 
 ## Features
 
-### For Administrators (Admin)
+### 1. Administrators (Admin)
 
 - **Room Management:**
   - Create, modify, and delete room information.
@@ -13,7 +13,7 @@ The Hotel Room Management System simplifies hotel reservations for administrator
 - **Reservation Management:**
   - View reservation details, including customer profiles.
 
-### For Customers
+### 2. Customers
 
 - **User Registration:**
   - Register and create a profile.
