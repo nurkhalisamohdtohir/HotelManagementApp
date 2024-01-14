@@ -46,3 +46,7 @@ The Hotel Room Management System simplifies hotel reservations for administrator
    - Browse rooms, view details, and make reservations.
    - Access and modify profiles.
    - Complete reservations by making payments.
+
+## User Interface
+
+[User Interface Hotel Room Management System (PDF)](User%20Interface%20Hotel%20Room%20Management%20System.pdf)
