@@ -35,18 +35,6 @@ The Hotel Room Management System simplifies hotel reservations for administrator
 - **Cancellation:**
   - Cancel room bookings.
 
-## Usage
-
-1. **Admin Access:**
-   - Log in with administrative credentials.
-   - Manage rooms and reservations.
-
-2. **Customer Access:**
-   - Register or log in.
-   - Browse rooms, view details, and make reservations.
-   - Access and modify profiles.
-   - Complete reservations by making payments.
-
 ## User Interface
 
 [User Interface Hotel Room Management System (PDF)](User%20Interface%20Hotel%20Room%20Management%20System.pdf)
