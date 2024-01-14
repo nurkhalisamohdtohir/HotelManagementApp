@@ -1,6 +1,6 @@
 # Hotel Room Management System
 
-The Hotel Room Management System simplifies hotel reservations for administrators and customers. This system aims to streamline the reservation process, providing an efficient solution for hotel management.
+The Hotel Room Management System simplifies hotel bookings for administrators and customers. This system aims to streamline the booking process, providing an efficient solution for hotel management.
 
 ## Features
 
@@ -10,8 +10,8 @@ The Hotel Room Management System simplifies hotel reservations for administrator
   - Create, modify, and delete room information.
   - View details like room type, capacity, and price.
 
-- **Reservation Management:**
-  - View reservation details, including customer profiles.
+- **Booking Management:**
+  - View booking details, including customer profiles.
 
 ### 2. Customers
 
@@ -21,19 +21,12 @@ The Hotel Room Management System simplifies hotel reservations for administrator
 - **Room Booking:**
   - Check available rooms.
   - View room details.
-  - Make advance bookings.
+  - Make advance booking.
+  - Confirm booking and make payment. (The total amount automatically calculated based on the length of stay)
+  - Cancel booking.
 
 - **Profile Management:**
-  - Access and modify personal profiles.
-
-- **Reservation Process:**
-  - Confirm room reservation and make payments.
-
-- **Payment Calculation:**
-  - Automatically calculate the total amount based on the length of stay.
-
-- **Cancellation:**
-  - Cancel room bookings.
+  - Access and modify personal profile.
 
 ## User Interface
 
