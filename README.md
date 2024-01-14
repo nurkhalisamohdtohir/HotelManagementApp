@@ -27,6 +27,11 @@ The Hotel Room Management System simplifies hotel bookings for administrators an
 
 - **Profile Management:**
   - Access and modify personal profile.
+ 
+### 3. Housekeepers
+
+- **Room Cleaning:**
+  - Update room status after cleaning process is done.
 
 ## User Interface
 
