@@ -1,6 +1,6 @@
 # Hotel Room Management System
 
-The Hotel Room Management System simplifies hotel bookings for administrators and customers. This system aims to streamline the booking process, providing an efficient solution for hotel management.
+The Hotel Room Management System simplifies hotel bookings for administrators and customers. This system aims to streamline the booking process, from managing room availability to handling customer reservations and housekeeping tasks, providing an efficient solution for hotel management.
 
 ## Features
 
@@ -12,6 +12,7 @@ The Hotel Room Management System simplifies hotel bookings for administrators an
 
 - **Booking Management:**
   - View booking details, including customer profiles.
+  - Handle check in and check out process.
 
 ### 2. Customers
 
@@ -35,4 +36,4 @@ The Hotel Room Management System simplifies hotel bookings for administrators an
 
 ## User Interface
 
-[User Interface Hotel Room Management System (PDF)](User%20Interface%20Hotel%20Room%20Management%20System.pdf)
+[User Interface Hotel Room Management System (PDF)](Growcer%20-%20Project%20Description.pdf)
