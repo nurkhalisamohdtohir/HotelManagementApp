@@ -36,4 +36,4 @@ The Hotel Room Management System simplifies hotel bookings for administrators an
 
 ## User Interface
 
-[User Interface Hotel Room Management System (PDF)](Growcer%20-%20Project%20Description.pdf)
+[User Interface Hotel Room Management System (PDF)](Hotel%20-%20Project%20Description.pdf)
